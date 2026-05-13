@@ -17,7 +17,7 @@ const Sidebar = ({ onLogout }) => {
       <aside className="fixed left-0 top-0 h-screen w-64 bg-slate-900 text-slate-300 flex flex-col border-r border-slate-800 z-40">
         <div className="p-6 flex items-center gap-3 border-b border-slate-800">
           <div className="bg-blue-600 p-2 rounded-lg"><Building2 size={24} className="text-white" /></div>
-          <span className="text-xl font-bold text-white uppercase tracking-wider">NamaCorp</span>
+          <span className="text-xl font-bold text-white uppercase tracking-wider">Flazz.Corp</span>
         </div>
 
         <nav className="flex-1 p-4 space-y-2 mt-4">
